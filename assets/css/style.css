@@ -372,12 +372,13 @@ textarea{
 @media screen and (max-width: 640px) {
 
 	#logo{
-		width: 88%;
+		width: 86.8%;
 		margin: 0;
 	}
 	header{
 		width: 100%;
 		padding: 0;
+		padding-bottom: 15px;
 	}
 	.headerspace{
 	}
@@ -402,6 +403,19 @@ textarea{
 	h1{
 		font-weight: bold;
 		font-size: 28px;
+	}
+
+	nav{
+		float: left;
+		clear: both;
+		margin: auto;
+		width: 600px;
+		padding-top: 10px;
+	}
+
+	#about, #contact, #portfolio{
+		width: 27%;
+
 	}
 
 
