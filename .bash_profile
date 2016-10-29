@@ -1,0 +1,5 @@
+alias gcl='git clone'
+alias ga='git add -A'
+alias gc='git commit -m'
+alias gp='git push'
+alias s='/C/Program\ Files/Sublime\ Text\ 3/subl.exe'
